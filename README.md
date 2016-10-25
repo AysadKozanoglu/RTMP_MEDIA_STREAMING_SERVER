@@ -1,14 +1,20 @@
 ### Installation
 install on debian based distribution
 
+step 1:
 ```
-chmod +x install-rtmp-server.sh && ./install-rtmp-server.sh
+git clone https://github.com/AysadKozanoglu/RTMP_MEDIA_STREAMING_SERVER.git
+```
+step 2:
+```
+cd RTMP_MEDIA_STREAMING_SERVER && chmod +x install-rtmp-server.sh && ./install-rtmp-server.sh
+
 ```
 
 after installation you will see DONE message. 
 
 
-### beginning to stream to your server 
+### Beginning to stream to your server with your local pc or  similar 
 
 use ffmpeg to stream to your server like now:
 
