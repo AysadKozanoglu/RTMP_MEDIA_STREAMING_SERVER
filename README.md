@@ -21,7 +21,8 @@ ffmpeg -i http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3
 or you can stream your own desktop screen like this in live
 
 ```
-ffmpeg -f x11grab -r 15 -s 1280x720 -i :0.0+0,24 -vcodec libx264  -threads 0 -f flv rtmp://<your-server-IP>/show/MyScreen
+ffmpeg -f x11grab -r 15 -s 1280x720 -i :0.0+0,24 -vcodec libx264  \ 
+       -threads 0 -f flv rtmp://<your-server-IP>/show/MyScreen
 ```
 
 you can watch your live streams with vlc or similar player with below links now:
