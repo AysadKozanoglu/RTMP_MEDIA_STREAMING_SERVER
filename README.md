@@ -74,4 +74,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-Aysad Kozanoglu |  email: aysadx@gmail.com | web: http://onweb.pe.hu
+Aysad Kozanoglu |  email: aysadx@gmail.com | web: http://aysad.pe.hu
