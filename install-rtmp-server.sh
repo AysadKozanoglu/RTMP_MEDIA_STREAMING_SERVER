@@ -3,7 +3,7 @@
 # coded by Aysad Kozanoglu
 #
 # email: aysadx@gmail.com
-# web  : http://onweb.pe.hu
+# web  : http://aysad.pe.hu
 #
 # auto installer script for 
 # nginx rtmp live hls streaming server 
